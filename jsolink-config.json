@@ -1,0 +1,19 @@
+{
+  "webpagetitle" : "test",
+  "htmltitle" : "test",
+  "accountname" : "test",
+  "profilepicture" : "https://alsonow.neocities.org/img/alsonow_icon.png",
+  "description" : "test",
+  "footer" : "test",
+  "htmlelement" : "",
+  "links" : [
+    {
+      "htmlbefore" : "<p>jsolink</p>",
+      "buttonname" : "jsolink website",
+      "href" : "https://samko5sam.bitbucket.io/jsolink/",
+      "target" : "_blank",
+      "enable" : "enable",
+      "nofollow" : "nofollow"
+    }
+  ]
+}
